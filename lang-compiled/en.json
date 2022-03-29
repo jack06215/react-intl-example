@@ -1,0 +1,14 @@
+{
+  "foo": [
+    {
+      "type": 0,
+      "value": "foo"
+    }
+  ],
+  "single": [
+    {
+      "type": 0,
+      "value": "single message"
+    }
+  ]
+}
